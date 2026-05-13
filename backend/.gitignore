@@ -1,0 +1,6 @@
+node_modules
+.env
+linkedin-session
+*.png
+*.html
+logs
